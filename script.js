@@ -57,5 +57,3 @@ const button = document.getElementById("guess-button");
 button.addEventListener("click", intentar);
 const input = document.getElementById("guess-input");
 const valor = input.value;
-
-
